@@ -155,6 +155,26 @@ nav ul ul ul li {
   top: -70px;
   left: 150px;
 }
+.c{
+  padding-top:6rem;
+}
+
+.c h1{
+  text-align:center;
+  font-size:30px;
+  font-weight:700;
+}
+.c p{
+  text-align:center;
+  padding-top:5px;
+  font-size:20px;
+  text-transform:uppercase;
+}
+.c h1 span{
+  display:block;
+}
+
+
 
 .show,
 .icon,
@@ -292,12 +312,29 @@ input {
   overflow: hidden;
   float: left;
   margin: 10px;
+  border-radius:5px;
 }
 
 .imgc img {
   width: 100%;
   height: 100%;
   position: absolute;
+ 
+}
+
+.cntk{
+  display:flex;
+  margin-top:30px;
+  justify-content:center;
+  background:red;
+}
+
+.ho{
+  display:block;
+}
+
+.ho button{
+  display:block;
 }
 
 .cpt {
