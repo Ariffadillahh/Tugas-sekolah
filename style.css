@@ -227,6 +227,7 @@ input {
 .igm:hover {
   transition: all 0.2s ease-in-out;
   transform: scale(1.1);
+ 
 }
 
 .box1 {
@@ -704,6 +705,7 @@ footer {
   margin: 0 auto;
   border-radius: 10px;
   padding: 5px 0;
+  box-shadow: 0 8px 8px 0 black;
 }
 
 .containero {
